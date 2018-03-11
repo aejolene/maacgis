@@ -16,6 +16,7 @@ Argument: our geospatial data is rich and valuable. By finding new ways to view 
 According to the Fourth National Climate Assessment published by the U.S. Global Change Research Program in November 2017, mid-Atlantic sea levels are projected to rise between 1 and 2 meters by the year 2100 (USGCRP 2017). Instability of sea ice introduces even more uncertainty, and differences in mass of land and sea ice produce varying rates of projected rise. 
 
 ![**“Changes in Sea Level in Sea Surface Height”** from USGCRP 2017](./SLR_report.png)
+*[“Changes in Sea Level in Sea Surface Height”](https://science2017.globalchange.gov/chapter/12#fig-12-3) from USGCRP 2017*
 
 In addition to rising seas, changing global temperatures alter sea currents and weather patterns, causing an increase in the occurrence of severe storms and changes to the rates of shoreline erosion. The shoreline of the Chesapeake Bay in Virginia alone stretches over 7,000 miles (Berman 2010). It is no surprise to any archaeologist that a large proportion of human habitation sites stretching back millennia are in close proximity to the coast and shorelines.
 
