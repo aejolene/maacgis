@@ -9,12 +9,12 @@
 
   
 
+
 ### Introduction: Expectations for climate change impacts
 
 Argument: our geospatial data is rich and valuable. By finding new ways to view it, we can expand our reach beyond a small subset of trained professionals and exponentially expand our reach and influence, helping sites. 
 
 According to the Fourth National Climate Assessment published by the U.S. Global Change Research Program in November 2017, mid-Atlantic sea levels are projected to rise between 1 and 2 meters by the year 2100 (USGCRP 2017). Instability of sea ice introduces even more uncertainty, and differences in mass of land and sea ice produce varying rates of projected rise. 
-
 ![**“Changes in Sea Level in Sea Surface Height”** from USGCRP 2017](./SLR_report.png)
 *[“Changes in Sea Level in Sea Surface Height”](https://science2017.globalchange.gov/chapter/12#fig-12-3) from USGCRP 2017*
 
@@ -31,9 +31,9 @@ In 2017, researchers from the Digital Index of North American Archaeology (DINAA
 
 The DINAA study considered archaeological sites from nine coastal states and found that over 19,000 sites will be inundated with a 1 meter sea level rise (a likely scenario within a century). In Virginia alone, a change in sea level at that magnitude will flood around 7,000 recorded sites, over 1,000 of which are at least potentially eligible for listing on the National Register of Historic Places (Anderson et al. 2017). The implications of coastal demographic displacement are even more striking. In Virginia, over 70% (n = 32181) of all recorded archaeological sites are within DINAA's considered 200 km distance from the coast. 
 
-\[TK DINAA image of coastal sites\]
+![“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.” from Anderson et al. 2017](./journal.pone.0188142.g003.PNG )
+[“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.”](https://doi.org/10.1371/journal.pone.0188142.g003) from Anderson et al. 2017*
 
-\[2\] Long range/general: DINAA PLOS ONE, DHR climate change impact areas to bump up survey
 
 \[1\] Resource specific: Longwood’s coastal change & predictive models
 
