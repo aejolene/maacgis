@@ -34,7 +34,7 @@ The DINAA study considered archaeological sites from nine coastal states and fou
 ![“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.” from Anderson et al. 2017](./journal.pone.0188142.g003.PNG )
 *[“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.”](https://doi.org/10.1371/journal.pone.0188142.g003) from Anderson et al. 2017*
 
-Funding made available by the [National Park Service](https://www.nps.gov/preservation-grants/disaster-recovery/index.html) after Hurricane Sandy devastated the mid- and north-Atlantic coast in 2012 enabled the Department of Historic Resources to engage in systematic assessment of individual sites and properties. The agency published a request for proposals in order to design a study that would assess change to recorded archaeological sites in several eligible counties. The Longwood Institute for Archaeology under Dr. Brian Bates (also presenting in this session) produced a methodology that combines a vulnerability assessment using statistical methods to make high-resolution predictions about coastal change rates with a geospatial predictive model in order to prioritize sites requiring physical assessment (since there are thousands in coastal and shoreline areas). 
+Funding made available by the [National Park Service](https://www.nps.gov/preservation-grants/disaster-recovery/index.html) after Hurricane Sandy devastated the mid- and north-Atlantic coast in 2012 enabled the Department of Historic Resources to engage in systematic assessment of individual sites and properties. The agency published a request for proposals in order to design a study that would assess change to recorded archaeological sites in several eligible counties. The [Longwood Institute of Archaeology](http://www.longwood.edu/archaeology/) under Dr. Brian Bates (also presenting in this session) produced a methodology that combines a vulnerability assessment using statistical methods to make high-resolution predictions about coastal change rates with a geospatial predictive model in order to prioritize sites requiring physical assessment among thousands in coastal and shoreline areas (Bates et al. 2017).
 
 \[possible graphic\]
 
@@ -103,6 +103,8 @@ building in flexibility to view our GIS data in flexible ways can have implicati
 #### References
 
 Anderson, David G., Thaddeus G. Bissett, Stephen J. Yerka, Joshua J. Wells, Eric C. Kansa, Sarah W. Kansa, Kelsey Noack Myers, R. Carl DeMuth, and Devin A. White. 2017. “Sea-Level Rise and Archaeological Site Destruction: An Example from the Southeastern United States Using DINAA (Digital Index of North American Archaeology).” _PLOS ONE_ 12 (11): e0188142. [https://doi.org/10.1371/journal.pone.0188142](https://doi.org/10.1371/journal.pone.0188142).
+
+Bates vulnerability assessment
 
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
 
