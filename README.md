@@ -42,14 +42,14 @@ These three initiatives address risk to sites at three very different scales —
 
 ### How we respond and recover
 
-Disaster response is, by its very nature, a speedier and more time-sensitive affair. Within the life cycle of a disaster, protections for cultural resources are (FEMA 2011). 
+Within the life cycle of a disaster, impacts to and protections for cultural resources can be found at any level (FEMA 2011). Disaster response is, by its very nature, a speedier and more time-sensitive affair. Human health and safety along with economic stability rank at the top of priority lists. Still, recovery officers have an opportunity to protect and document archaeological sites and other cultural resources. During the recovery phase, communities begin to put the pieces back together. 
 
-![Disaster cycle: Mitigation, Preparedness, Response, and Recovery](./disaster_cycle1.png)
+![Disaster cycle: Mitigation, Preparedness, Response, and Recovery](./disaster_cycle1.png)  
 *The four phases of emergency management. Consideration of cultural resources can happen at all phases, but occurs mostly during recovery.*
 
-\[1\] Lots of different audiences: From DHR’s point of view
+The SHPO (state historic preservation office) maintains an inventory of cultural resources. Our task is to figure out the best ways to convey these data and their meaning appropriately to many different audiences who may not have archaeological or architectural history expertise. Potential audiences include disaster response personnel from federal agencies, state agencies, and local governments, planners at the local level, and other state and federal agency staff who may find themselves involved in compliance with Section 106 the National Historic Preservation Act due to recovery-related federal undertakings. Other audiences include property owners, descendent communities, and members of the general public with an interest in archaeology and preservation.
 
-### Risks to sharing too much data
+### Risks of sharing too much data
 
 Site location disclosure- looting/vandalism
 
@@ -69,7 +69,8 @@ No avenue to help
 
 #### Agency response map
 
-<a class ="buttons github" href="https://aejolene.github.io/disastermap/">Explore the Interactive Disaster Response Demo Map</a>
+
+<a class ="btn btn-primary" href="https://aejolene.github.io/disastermap/">Explore the Interactive Disaster Response Demo Map</a>
 
 \[1\] Audience: volunteer condition assessors- leaflet plus kobo form
 
