@@ -69,10 +69,7 @@ No avenue to help
 
 #### Agency response map
 
-
- <div class=linkbutton>
- <button type="button" class="btn btn-default">Explore the Interactive Disaster Response Demo Map</button>
- </div>
+<a class ="buttons github" href="https://aejolene.github.io/disastermap/">Explore the Interactive Disaster Response Demo Map</a>
 
 \[1\] Audience: volunteer condition assessors- leaflet plus kobo form
 
