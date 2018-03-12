@@ -32,12 +32,20 @@ In 2017, researchers from the Digital Index of North American Archaeology (DINAA
 The DINAA study considered archaeological sites from nine coastal states and found that over 19,000 sites will be inundated with a 1 meter sea level rise (a likely scenario within a century). In Virginia alone, a change in sea level at that magnitude will flood around 7,000 recorded sites, over 1,000 of which are at least potentially eligible for listing on the National Register of Historic Places (Anderson et al. 2017). The implications of coastal demographic displacement are even more striking. In Virginia, over 70% (n = 32181) of all recorded archaeological sites are within DINAA's considered 200 km distance from the coast. 
 
 ![“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.” from Anderson et al. 2017](./journal.pone.0188142.g003.PNG )
-[“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.”](https://doi.org/10.1371/journal.pone.0188142.g003) from Anderson et al. 2017*
+*[“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.”](https://doi.org/10.1371/journal.pone.0188142.g003) from Anderson et al. 2017*
 
+Funding made available by the [National Park Service](https://www.nps.gov/preservation-grants/disaster-recovery/index.html) after Hurricane Sandy devastated the mid- and north-Atlantic coast in 2012 enabled the Department of Historic Resources to engage in systematic assessment of individual sites and properties. The agency published a request for proposals in order to design a study that would assess change to recorded archaeological sites in several eligible counties. The Longwood Institute for Archaeology under Dr. Brian Bates (also presenting in this session) produced a methodology that combines a vulnerability assessment using statistical methods to make high-resolution predictions about coastal change rates with a geospatial predictive model in order to prioritize sites requiring physical assessment (since there are thousands in coastal and shoreline areas). 
 
-\[1\] Resource specific: Longwood’s coastal change & predictive models
+\[possible graphic\]
 
-### How we respond
+These three initiatives address risk to sites at three very different scales — continental, statewide, and site-level. Taken together, these and similar approaches make up a powerful planning toolbox as we come to terms with the realities of climate change and its impacts.
+
+### How we respond and recover
+
+Disaster response is, by its very nature, a speedier and more time-sensitive affair. Within the life cycle of a disaster, protections for cultural resources are (FEMA 2011). 
+
+![Disaster cycle: Mitigation, Preparedness, Response, and Recovery](./disaster_cycle1.png)
+*The four phases of emergency management. Consideration of cultural resources can happen at all phases, but occurs mostly during recovery.*
 
 \[1\] Lots of different audiences: From DHR’s point of view
 
@@ -60,6 +68,11 @@ No avenue to help
 \[1\] Audience: other agencies:
 
 #### Agency response map
+
+
+ <div class=linkbutton>
+ <button type="button" class="btn btn-default">Explore the Interactive Disaster Response Demo Map</button>
+ </div>
 
 \[1\] Audience: volunteer condition assessors- leaflet plus kobo form
 
@@ -92,5 +105,9 @@ building in flexibility to view our GIS data in flexible ways can have implicati
 Anderson, David G., Thaddeus G. Bissett, Stephen J. Yerka, Joshua J. Wells, Eric C. Kansa, Sarah W. Kansa, Kelsey Noack Myers, R. Carl DeMuth, and Devin A. White. 2017. “Sea-Level Rise and Archaeological Site Destruction: An Example from the Southeastern United States Using DINAA (Digital Index of North American Archaeology).” _PLOS ONE_ 12 (11): e0188142. [https://doi.org/10.1371/journal.pone.0188142](https://doi.org/10.1371/journal.pone.0188142).
 
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
+
+FEMA. 2011. “National Disaster Recovery Framework.” [https://www.fema.gov/pdf/recoveryframework/ndrf.pdf](https://www.fema.gov/pdf/recoveryframework/ndrf.pdf).
+
+Smith, Jolene, David G. Anderson, Eric Kansa, Joshua Wells, and Stephen Yerka. 2017. “Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting.” Keeping History Above Water, Annapolis, MD. [https://github.com/aejolene/disastermap](https://github.com/aejolene/disastermap).
 
 USGCRP. 2017. “Climate Science Special Report Chapter 12: Sea Level Rise.” 2017. [https://science2017.globalchange.gov/chapter/12/](https://science2017.globalchange.gov/chapter/12/).
