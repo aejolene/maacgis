@@ -51,11 +51,33 @@ The SHPO (state historic preservation office) maintains an inventory of cultural
 
 ### Risks of sharing too much data
 
+In order to address disasters (and facilitate research, provide public outreach, ethically and effectively manage historic resources, et cetera), sharing data is central. We need to be able to communicate clearly and quickly to non-archaeologists what we have and why it's important. But it is easy to overshoot, and the consequences can be severe and permanent. 
+
+Data managers (myself absolutely included) take archaeological site sensitivity very seriously. Section 304 of the National Historic Preservation Act of 1966 (16 U.S.C. 4702-3) indicates that officials
+
+> "shall withhold from disclosure to the public information about the
+> location, character, or ownership of a historic property if the
+> Secretary and the agency determine that disclosure may-  
+> 
+> (1) cause a significant invasion of privacy;   (2) risk harm to the
+> historic property; or   (3) impede the use of a traditional religious
+> site by practitioners"  
+> 
+> [(National Historic Preservation Act of 1966)](https://www.nps.gov/history/local-law/nhpa1966.htm)
+
+For archaeological sites, this generally means restricting access to specific details about the location and nature of sites (this is interpreted in a myriad of different ways, but that's another paper). 
+
+In an emergency, people who need to understand impacts to archaeological sites may not be professional archaeologists or trained in cultural resource management. They may not understand the sensitive nature of archaeological sites. Distributing static geospatial data at full resolution creates particular vulnerabilities, as a .zip archive of shapefiles is easy to share and can find its way onto public-facing websites very easily. Releasing detailed locations of certain types of archaeological sites (namely those including Virginia Indian human remains and grave goods, as well as shipwrecks, Civil War and Colonial-era sites) places them at high risk for looting and vandalism. 
+
+
+
 Site location disclosure- looting/vandalism
 
 Overwhelming or misleading non-archaeologists
 
 ### Risks to too little data shared
+
+Because sharing just the right amount of archaeological data is not simple, many data repositories take the conservative approach of withholding everything, for fear of making an irreversible mistake.  
 
 No awareness of risk to heritage resources
 
@@ -107,6 +129,8 @@ Bates vulnerability assessment
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
 
 FEMA. 2011. “National Disaster Recovery Framework.” [https://www.fema.gov/pdf/recoveryframework/ndrf.pdf](https://www.fema.gov/pdf/recoveryframework/ndrf.pdf).
+
+Smith, Jolene. 2016. "Approaches to Openness." Society for Historical Archaeology, Baltimore, MD. [https://jolenesmith.net/approaches-to-openness/html.](https://jolenesmith.net/approaches-to-openness/html)
 
 Smith, Jolene, David G. Anderson, Eric Kansa, Joshua Wells, and Stephen Yerka. 2017. “Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting.” Keeping History Above Water, Annapolis, MD. [https://github.com/aejolene/disastermap](https://github.com/aejolene/disastermap).
 
