@@ -34,9 +34,10 @@ The DINAA study considered archaeological sites from nine coastal states and fou
 ![“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.” from Anderson et al. 2017](./journal.pone.0188142.g003.PNG )
 *[“Site incidence as it relates to potential loss from sea-level rise, grouped by elevation in meters above present mean sea level.”](https://doi.org/10.1371/journal.pone.0188142.g003) from Anderson et al. 2017*
 
-Funding made available by the [National Park Service](https://www.nps.gov/preservation-grants/disaster-recovery/index.html) after Hurricane Sandy devastated the mid- and north-Atlantic coast in 2012 enabled the Department of Historic Resources to engage in systematic assessment of individual sites and properties. The agency published a request for proposals in order to design a study that would assess change to recorded archaeological sites in several eligible counties. The [Longwood Institute of Archaeology](http://www.longwood.edu/archaeology/) under Dr. Brian Bates (also presenting in this session) produced a methodology that combines a vulnerability assessment using statistical methods to make high-resolution predictions about coastal change rates with a geospatial predictive model in order to prioritize sites requiring physical assessment among thousands in coastal and shoreline areas (Bates et al. 2017).
+Funding made available by the [National Park Service](https://www.nps.gov/preservation-grants/disaster-recovery/index.html) after Hurricane Sandy devastated the mid- and north-Atlantic coast in 2012 enabled the Department of Historic Resources to engage in systematic assessment of individual sites and properties. The agency published a request for proposals in order to design a study that would assess change to recorded archaeological sites in several eligible counties. The [Longwood Institute of Archaeology](http://www.longwood.edu/archaeology/) produced a methodology that combines a vulnerability assessment using statistical methods to make high-resolution predictions about coastal change rates with a geospatial predictive model in order to prioritize sites requiring physical assessment among thousands in coastal and shoreline areas (Rose et al. 2017).
 
-\[possible graphic\]
+![An example of site vulnerability map from Rose et al. 2017. Site locator and site numbers redacted](./longwood_vuln_example.jpg )
+*An example of site vulnerability map from Rose et al. 2017. Site locator and site numbers redacted*
 
 These three initiatives address risk to sites at three very different scales — continental, statewide, and site-level. Taken together, these and similar approaches make up a powerful planning toolbox as we come to terms with the realities of climate change and its impacts.
 
@@ -81,18 +82,18 @@ We can explore ways to achieve a balance between the restrictive and vulnerable 
 
 #### Agency response map
 
-![**Rapid Response Tool (demonstration)**](./disastermap.jpg)
+![**Rapid Response Tool (demonstration)**](./disastermap.jpg)  
+*From Smith et al. 2017, Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting*  
+
 This is a demonstration mobile app created for the Keeping History Above Water conference in Annapolis, MD (2017). The accompanying paper, ["Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting,"](https://github.com/aejolene/disastermap) is available online, along with the code for the map (Smith et al. 2017). The authors demonstrate how archaeology data available at a safe, public scale can be used to create a tool to quickly connect agency responders with SHPO staff, using a presence/absence map that works on mobile devices.
 
-<a class ="btn btn-primary" href="https://aejolene.github.io/disastermap/ target="_blank">Explore the Interactive Disaster Response Demo Map</a>
-
-[Explore the Interactive Disaster Response Demo Map](https://aejolene.github.io/disastermap/){: .btn}
-
-\[1\] Audience: volunteer condition assessors- leaflet plus kobo form
+[Explore the Interactive Disaster Response Demo Map](https://aejolene.github.io/disastermap/)
 
 #### Crowdsourcing conditions- citizen science
 
 \[1\] Audience: general public
+
+
 
 #### Sharing information to build coalitions- WHO CARES?
 
@@ -118,11 +119,12 @@ building in flexibility to view our GIS data in flexible ways can have implicati
 
 Anderson, David G., Thaddeus G. Bissett, Stephen J. Yerka, Joshua J. Wells, Eric C. Kansa, Sarah W. Kansa, Kelsey Noack Myers, R. Carl DeMuth, and Devin A. White. 2017. “Sea-Level Rise and Archaeological Site Destruction: An Example from the Southeastern United States Using DINAA (Digital Index of North American Archaeology).” _PLOS ONE_ 12 (11): e0188142. [https://doi.org/10.1371/journal.pone.0188142](https://doi.org/10.1371/journal.pone.0188142).
 
-Bates vulnerability assessment
-
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
 
 FEMA. 2011. “National Disaster Recovery Framework.” [https://www.fema.gov/pdf/recoveryframework/ndrf.pdf](https://www.fema.gov/pdf/recoveryframework/ndrf.pdf).
+
+Rose, Craig, Mary Farrell, Brian Bates, Walter Witschey, Erin West. 2017
+Archaeological Shoreline Survey, Portions of Lancaster, Mathews, Middlesex, and Northumberland Counties, Virginia. Longwood Institute of Archaeology.
 
 Smith, Jolene. 2016. "Approaches to Openness." Society for Historical Archaeology, Baltimore, MD. [https://jolenesmith.net/approaches-to-openness/html.](https://jolenesmith.net/approaches-to-openness/html)
 
