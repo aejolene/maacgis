@@ -7,8 +7,8 @@
   
 **Abstract:** In the years ahead, archaeologists and emergency managers will need increasing capacity to respond to severe weather events driven by climate change. While Virginia’s archaeological geospatial data is generally protected, alternate ways of presenting and sharing information are needed, whether to respond to disasters, to crowdsource observations, or to develop a stewardship ethic among members of the general public. Using data served to the public through the Digital Index of North American Archaeology with obscured location information, this presentation will demonstrate new ways to present and interact with state archaeology records that bring them beyond the world of cultural resource management and regulatory compliance.
 
+----------
   
-
 
 ### Introduction: Expectations for climate change impacts
 
@@ -51,7 +51,7 @@ The SHPO (state historic preservation office) maintains an inventory of cultural
 
 ### Risks of sharing too much data
 
-In order to address disasters (and facilitate research, provide public outreach, ethically and effectively manage historic resources, et cetera), sharing data is central. We need to be able to communicate clearly and quickly to non-archaeologists what we have and why it's important. But it is easy to overshoot, and the consequences can be severe and permanent. 
+In order to address disasters (and facilitate research, provide public outreach, ethically and effectively manage historic resources, et cetera), sharing data is central. We need to be able to communicate clearly and quickly to non-archaeologists what we have and why it's important. But it is easy to overshoot, and the consequences can be severe and permanent (Smith 2016). 
 
 Data managers (myself absolutely included) take archaeological site sensitivity very seriously. Section 304 of the National Historic Preservation Act of 1966 (16 U.S.C. 4702-3) indicates that officials
 
@@ -69,30 +69,24 @@ For archaeological sites, this generally means restricting access to specific de
 
 In an emergency, people who need to understand impacts to archaeological sites may not be professional archaeologists or trained in cultural resource management. They may not understand the sensitive nature of archaeological sites. Distributing static geospatial data at full resolution creates particular vulnerabilities, as a .zip archive of shapefiles is easy to share and can find its way onto public-facing websites very easily. Releasing detailed locations of certain types of archaeological sites (namely those including Virginia Indian human remains and grave goods, as well as shipwrecks, Civil War and Colonial-era sites) places them at high risk for looting and vandalism. 
 
+Even if archaeological data stays safely out of the hands of bad actors, we risk overwhelming people outside of the cultural resource management world with too much information, often presented in potentially confusing ways. For example, take a concurrence from the Department of Historic Resources that a resource is *potentially eligible for listing on the National Register of Historic Places*, even though in reality all historic properties are considered potentially eligible until evaluated to be ineligible. It's confusing. Archaeological boundaries can also be misleading. Does a polygon represent the entirety of a site, or is it limited to the portion surveyed for a particular project? It takes a certain degree of training to correctly interpret what's often a torrent of data. Compound with a tense emergency situation and overextended staff and the risks for mistakes continue to grow.
 
+### Risks of sharing too little
 
-Site location disclosure- looting/vandalism
+Because sharing just the right amount of archaeological data is not simple, many data repositories take the conservative approach of withholding everything archaeological from public-facing applications, for fear of making an irreversible mistake. While it's true that we can't un-ring the bell of sensitive data release, there are other consequences to keeping things too close to the belt. In the wake of a disaster, a property owner, a concerned citizen, or even someone working outside of a cultural resources division for a government agency might not even realize there are resources at risk in a given area. With no easy avenue to help, we might lose even more of our irreplaceable cultural heritage. 
 
-Overwhelming or misleading non-archaeologists
-
-### Risks to too little data shared
-
-Because sharing just the right amount of archaeological data is not simple, many data repositories take the conservative approach of withholding everything, for fear of making an irreversible mistake.  
-
-No awareness of risk to heritage resources
-
-No avenue to help
-
-  
+We can explore ways to achieve a balance between the restrictive and vulnerable ends of the spectrum by opening up non-sensitive data and displaying it ways that meet specific needs and answer particular questions.  
 
 ### Examples:
 
-\[1\] Audience: other agencies:
-
 #### Agency response map
 
+![**Rapid Response Tool (demonstration)**](./disastermap.jpg)
+This is a demonstration mobile app created for the Keeping History Above Water conference in Annapolis, MD (2017). The accompanying paper, ["Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting,"](https://github.com/aejolene/disastermap) is available online, along with the code for the map (Smith et al. 2017). The authors demonstrate how archaeology data available at a safe, public scale can be used to create a tool to quickly connect agency responders with SHPO staff, using a presence/absence map that works on mobile devices.
 
-<a class ="btn btn-primary" href="https://aejolene.github.io/disastermap/">Explore the Interactive Disaster Response Demo Map</a>
+<a class ="btn btn-primary" href="https://aejolene.github.io/disastermap/ target="_blank">Explore the Interactive Disaster Response Demo Map</a>
+
+[Explore the Interactive Disaster Response Demo Map](https://aejolene.github.io/disastermap/){: .btn}
 
 \[1\] Audience: volunteer condition assessors- leaflet plus kobo form
 
