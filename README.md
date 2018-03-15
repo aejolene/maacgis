@@ -1,4 +1,4 @@
-# Climate Response Virginia Archaeology: Maps from Different Points of View
+# Climate Response and Virginia Archaeology: Maps from Different Points of View
 
 #### Jolene Smith, Virginia Department of Historic Resources
 ##### A Paper for the 48th Annual Middle Atlantic Archaeology Conference in Virginia Beach, VA. March 17, 2018.
