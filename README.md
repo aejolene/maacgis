@@ -23,9 +23,12 @@ In addition to rising seas, changing global temperatures alter sea currents and 
 
 ### How we plan
 
-In Virginia, we maintain records on around 44,000 archaeological sites, with more being added every day. In response to new priorities from the administration of Governor Terry McAullife in 2013, the Department of Historic Resources established a "Climate Change Impact Area" in order to monitor resources and target survey. To derive this area, DHR staff combined Category 4 storm surge area data (NOAA 2013) and the projected area to be inundated with a 5' sea level rise (TK source). \[TK impact area graphic\]
+In Virginia, we maintain records on around 44,000 archaeological sites, with more being added every day. In response to new priorities from the administration of Governor Terry McAullife in 2014, the Department of Historic Resources established a "Climate Change Impact Area" in order to monitor resources and target survey. To derive this area, DHR staff combined Category 4 storm surge area data (Virginia Department of Emergency Management 2013) and the projected area to be inundated with a 5' sea level rise (NOAA 2013). 
 
-The goal of the area was not to predict which sites and above-ground historic properties would be flooded, but to instead target increased attention and documentation. The zone contains more than ten percent of all recorded archaeological sites and archaeological resources in the Commonwealth. Only TK percent of this area has been systematically surveyed for archaeological sites prior to 2013. The richness of our coastal heritage (not to mention the interconnected ecosystems) cannot be overstated.
+![Climate Change Impact Area, covering the Chesapeake Bay and the Atlantic Coast, and showing architectural and archaeological resources.](./climate_change_impact_area.jpg)  
+*Virginia's DHR's Climate Change Impact Area (2014).*
+
+The goal of the area was not to predict which sites and above-ground historic properties would be flooded, but to instead target increased attention and documentation. The zone contains more than ten percent of all recorded archaeological sites and archaeological resources in the Commonwealth. Only a small percent of this area has been systematically surveyed for archaeological sites prior to 2013. The richness of our coastal heritage (not to mention the interconnected ecosystems) cannot be overstated.
 
 In 2017, researchers from the Digital Index of North American Archaeology (DINAA) published a powerful article that demonstrated the magnitude of the potential impact to archaeological resources on the East Coast. (Anderson et al. 2017). Critically, this study not only examined areas very near the coast and at risk from direct, water-related impacts, but it also considered risks that might be caused by displacement of major population centers from the coasts inland. In Virginia, entire regions like Hampton Roads will likely feel pressures away from shorelines and rising water tables. 
 
@@ -91,21 +94,21 @@ This is a demonstration mobile app created for the Keeping History Above Water c
 
 #### Crowdsourcing conditions- citizen science
 
-\[1\] Audience: general public
+In Virginia, we are strapped for funds and personnel within the SHPO to conduct monitoring of vulnerable sites. Each year, we get reports of eroding cultural materials, sometimes including material remains. The fact is we can't do this alone with the limited resources of a small state agency. How do we involve others in this monumental and never-ending task? 
 
+Drawing on methodology successfully implemented by the SCAPE/SCHARP project in Scotland (Dawson 2017), Virginia and other coastal states could quickly deploy volunteer data collectors to aid in site monitoring and discovery. But the correlation between archaeology in Scotland and archaeology in the United States is not 1:1. Fewer legal protections and, arguably, less of a communal stewardship ethic introduce perceived added risk for intentional looting and destruction. Fortunately, in this state we've got the remarkable Archeological Society of Virginia, a large avocational archaeology organization including members with decades of training and experience, as well as a high degree of collaboration with the professional archaeological community. *Here* is where we start.
+
+![Screenshot of a demo data collection form, including maping and user-reporting of observations](./demo_stewardship.png)  
+*A demo for volunteer "Site Steward" data collection, created using KoboToolbox. **Try it at https://ee.kobotoolbox.org/x/#Ycsh***
 
 
 #### Sharing information to build coalitions- WHO CARES?
+Beyond ASV members, 
 
 ### Ways to present maps to the public
 
 MSUDAI example (could move to COVA)
 
-  
-
-### \[1\] Other exemplars
-
-SCAPE in scotland
 
 ### \[1\] Wrap up- 
 building in flexibility to view our GIS data in flexible ways can have implications beyond climate change. Also relevant to people outside of DHR. What can you do? Make data interoperable, link it, choose non-proprietary formats for distribution
@@ -120,6 +123,8 @@ building in flexibility to view our GIS data in flexible ways can have implicati
 Anderson, David G., Thaddeus G. Bissett, Stephen J. Yerka, Joshua J. Wells, Eric C. Kansa, Sarah W. Kansa, Kelsey Noack Myers, R. Carl DeMuth, and Devin A. White. 2017. “Sea-Level Rise and Archaeological Site Destruction: An Example from the Southeastern United States Using DINAA (Digital Index of North American Archaeology).” _PLOS ONE_ 12 (11): e0188142. [https://doi.org/10.1371/journal.pone.0188142](https://doi.org/10.1371/journal.pone.0188142).
 
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
+
+Dawson, Tom. 2017. “The Steps to Prioritizing and Undertaking Action at Sites Threatened by Climate Change: Incorporating a Citizen Science Approach into Heritage Management in Scotland.” _With A World of Heritage So Rich: Lessons from Across the Globe for U.S. Historic Preservation in Its Second 50 Years. US/ICOMOS.
 
 FEMA. 2011. “National Disaster Recovery Framework.” [https://www.fema.gov/pdf/recoveryframework/ndrf.pdf](https://www.fema.gov/pdf/recoveryframework/ndrf.pdf).
 
