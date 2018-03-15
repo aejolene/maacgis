@@ -91,7 +91,7 @@ We can explore ways to achieve a balance between the restrictive and vulnerable 
 ![**Rapid Response Tool (demonstration)**](./disastermap.jpg)  
 *From Smith et al. 2017, Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting*  
 
-This is a demonstration mobile app created for the Keeping History Above Water conference in Annapolis, MD (2017). The accompanying paper, ["Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting,"](https://github.com/aejolene/disastermap) is available online, along with the code for the map (Smith et al. 2017). The authors demonstrate how archaeology data available at a safe, public scale can be used to create a tool to quickly connect agency responders with SHPO staff, using a presence/absence map that works on mobile devices.
+Pictured above is a demonstration mobile app created for the Keeping History Above Water conference in Annapolis, MD (2017). The accompanying paper, ["Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting,"](https://github.com/aejolene/disastermap) is available online, along with the code for the map (Smith et al. 2017). The authors demonstrate how archaeology data available at a safe, public scale can be used to create a tool to quickly connect agency responders with SHPO staff, using a presence/absence map that works on mobile devices.
 
 [Explore the Interactive Disaster Response Demo Map](https://aejolene.github.io/disastermap/)
 
@@ -104,7 +104,7 @@ Drawing on methodology successfully implemented by the SCAPE/SCHARP project in S
 ![Screenshot of a demo data collection form, including maping and user-reporting of observations](./demo_stewardship.png)  
 *A demo for volunteer "Site Steward" data collection, created using KoboToolbox.*
 
-[Try the data collection app (on mobile or from your computer)](https://ee.kobotoolbox.org/x/#Ycsh)
+[Try the data collection app (on mobile or desktop)](https://ee.kobotoolbox.org/x/#Ycsh)
 
 
 #### Sharing information to build coalitions- WHO CARES?
@@ -117,7 +117,7 @@ In the coming years, it will be more critical then ever to prioritize outreach, 
 ### In Conclusion
 
 Building in flexibility to view our GIS data in many ways can have implications far beyond climate change. While this paper comes from the perspective of a SHPO archaeologist, I argue that the principles and approaches are also relevant to people outside of DHR. We can all build in consideration for public dissemination at the outset with simple strategies like formatting reports to easily remove sensitive data. We can make data interoperable by planning for its reuse and choosing stable, non-proprietary file formats. These strategies might seem tangential to addressing response to climate change impacts, but they're core to getting the right level of information out into the world. 
-Our geospatial data is rich and valuable. By finding new ways to view it, we can expand our reach beyond a small subset of trained professionals and exponentially expand our reach and influence, protecting sites. 
+Our geospatial data is rich and valuable. By finding new ways to view it, we can expand our reach beyond a small subset of trained professionals and exponentially expand our reach and influence, protecting sites and documenting our irreplaceable heritage. 
 
 
 
