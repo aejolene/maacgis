@@ -1,31 +1,34 @@
 # Virginia Archaeology: Maps from Different Points of View
-### Jolene Smith
 
-#### Middle Atlantic Archaeology Conference 2018
+#### Jolene Smith, Virginia Department of Historic Resources
+##### A Paper for the 48th Annual Middle Atlantic Archaeology Conference in Virginia Beach, VA. March 17, 2018.
 
+In Geospatial Studies in Middle Atlantic Archaeology
+Session Organizer: Yvonne French (Northern Virginia Chapter, Archeological Society of Virginia)
 
-  
-**Abstract:** In the years ahead, archaeologists and emergency managers will need increasing capacity to respond to severe weather events driven by climate change. While Virginia’s archaeological geospatial data is generally protected, alternate ways of presenting and sharing information are needed, whether to respond to disasters, to crowdsource observations, or to develop a stewardship ethic among members of the general public. Using data served to the public through the Digital Index of North American Archaeology with obscured location information, this presentation will demonstrate new ways to present and interact with state archaeology records that bring them beyond the world of cultural resource management and regulatory compliance.
+**Abstract:**  
+In the years ahead, archaeologists and emergency managers will need increasing capacity to respond to severe weather events driven by climate change. While Virginia’s archaeological geospatial data is generally protected, alternate ways of presenting and sharing information are needed, whether to respond to disasters, to crowdsource observations, or to develop a stewardship ethic among members of the general public. Using data served to the public through the Digital Index of North American Archaeology with obscured location information, this presentation will demonstrate new ways to present and interact with state archaeology records that bring them beyond the world of cultural resource management and regulatory compliance.
+
 
 ----------
-  
+
+
 
 ### Introduction: Expectations for climate change impacts
 
-Argument: our geospatial data is rich and valuable. By finding new ways to view it, we can expand our reach beyond a small subset of trained professionals and exponentially expand our reach and influence, helping sites. 
 
 According to the Fourth National Climate Assessment published by the U.S. Global Change Research Program in November 2017, mid-Atlantic sea levels are projected to rise between 1 and 2 meters by the year 2100 (USGCRP 2017). Instability of sea ice introduces even more uncertainty, and differences in mass of land and sea ice produce varying rates of projected rise. 
 ![**“Changes in Sea Level in Sea Surface Height”** from USGCRP 2017](./SLR_report.png)
 *[“Changes in Sea Level in Sea Surface Height”](https://science2017.globalchange.gov/chapter/12#fig-12-3) from USGCRP 2017*
 
-In addition to rising seas, changing global temperatures alter sea currents and weather patterns, causing an increase in the occurrence of severe storms and changes to the rates of shoreline erosion. The shoreline of the Chesapeake Bay in Virginia alone stretches over 7,000 miles (Berman 2010). It is no surprise to any archaeologist that a large proportion of human habitation sites stretching back millennia are in close proximity to the coast and shorelines.
+In addition to rising seas, changing global temperatures alter sea currents and weather patterns, causing an increase in the occurrence of severe storms and changes to the rates of shoreline erosion. The shoreline of the Chesapeake Bay in Virginia alone stretches over 7,000 miles (Berman 2010). It is no surprise to any archaeologist that a large proportion of human habitation sites stretching back millennia are in close proximity to the coast and shorelines and are imminently threatened).
 
 
 ### How we plan
 
 In Virginia, we maintain records on around 44,000 archaeological sites, with more being added every day. In response to new priorities from the administration of Governor Terry McAullife in 2014, the Department of Historic Resources established a "Climate Change Impact Area" in order to monitor resources and target survey. To derive this area, DHR staff combined Category 4 storm surge area data (Virginia Department of Emergency Management 2013) and the projected area to be inundated with a 5' sea level rise (NOAA 2013). 
 
-![Climate Change Impact Area, covering the Chesapeake Bay and the Atlantic Coast, and showing architectural and archaeological resources.](./climate_change_impact_area.jpg)  
+![Climate Change Impact Area, covering the Chesapeake Bay and the Atlantic Coast, and showing architectural and archaeological resources.](./climate_change_impact_area_2014.jpg)  
 *Virginia's DHR's Climate Change Impact Area (2014).*
 
 The goal of the area was not to predict which sites and above-ground historic properties would be flooded, but to instead target increased attention and documentation. The zone contains more than ten percent of all recorded archaeological sites and archaeological resources in the Commonwealth. Only a small percent of this area has been systematically surveyed for archaeological sites prior to 2013. The richness of our coastal heritage (not to mention the interconnected ecosystems) cannot be overstated.
@@ -71,9 +74,9 @@ Data managers (myself absolutely included) take archaeological site sensitivity 
 
 For archaeological sites, this generally means restricting access to specific details about the location and nature of sites (this is interpreted in a myriad of different ways, but that's another paper). 
 
-In an emergency, people who need to understand impacts to archaeological sites may not be professional archaeologists or trained in cultural resource management. They may not understand the sensitive nature of archaeological sites. Distributing static geospatial data at full resolution creates particular vulnerabilities, as a .zip archive of shapefiles is easy to share and can find its way onto public-facing websites very easily. Releasing detailed locations of certain types of archaeological sites (namely those including Virginia Indian human remains and grave goods, as well as shipwrecks, Civil War and Colonial-era sites) places them at high risk for looting and vandalism. 
+In an emergency, people who need to understand impacts to archaeological sites may not be professional archaeologists or trained in cultural resource management. They may not understand the sensitive nature of archaeological sites. Distributing static geospatial data at full resolution creates particular vulnerabilities, as a .zip archive of GIS shapefiles is easy to share and can find its way onto public-facing websites very easily. Releasing detailed locations of certain types of archaeological sites (namely those including Virginia Indian human remains and grave goods, as well as shipwrecks, Civil War and Colonial-era sites) places them at high risk for looting and vandalism. 
 
-Even if archaeological data stays safely out of the hands of bad actors, we risk overwhelming people outside of the cultural resource management world with too much information, often presented in potentially confusing ways. For example, take a concurrence from the Department of Historic Resources that a resource is *potentially eligible for listing on the National Register of Historic Places*, even though in reality all historic properties are considered potentially eligible until evaluated to be ineligible. It's confusing. Archaeological boundaries can also be misleading. Does a polygon represent the entirety of a site, or is it limited to the portion surveyed for a particular project? It takes a certain degree of training to correctly interpret what's often a torrent of data. Compound with a tense emergency situation and overextended staff and the risks for mistakes continue to grow.
+Even if archaeological data stays safely out of the hands of bad actors, we risk overwhelming people outside of the cultural resource management world with too much information presented in potentially confusing ways. For example, take a concurrence from the Department of Historic Resources that a resource is *potentially eligible for listing on the National Register of Historic Places*, even though in reality all historic properties are technically (usually) potentially eligible until evaluated to be ineligible. It's confusing. Archaeological boundaries can also be misleading. Does a polygon represent the entirety of a site, or is it limited to the portion surveyed for a particular project? It takes a certain degree of training to correctly interpret what can be a torrent of data. Compound with a tense emergency situation and overextended staff and the risks for mistakes continue to grow.
 
 ### Risks of sharing too little
 
@@ -96,24 +99,25 @@ This is a demonstration mobile app created for the Keeping History Above Water c
 
 In Virginia, we are strapped for funds and personnel within the SHPO to conduct monitoring of vulnerable sites. Each year, we get reports of eroding cultural materials, sometimes including material remains. The fact is we can't do this alone with the limited resources of a small state agency. How do we involve others in this monumental and never-ending task? 
 
-Drawing on methodology successfully implemented by the SCAPE/SCHARP project in Scotland (Dawson 2017), Virginia and other coastal states could quickly deploy volunteer data collectors to aid in site monitoring and discovery. But the correlation between archaeology in Scotland and archaeology in the United States is not 1:1. Fewer legal protections and, arguably, less of a communal stewardship ethic introduce perceived added risk for intentional looting and destruction. Fortunately, in this state we've got the remarkable Archeological Society of Virginia, a large avocational archaeology organization including members with decades of training and experience, as well as a high degree of collaboration with the professional archaeological community. *Here* is where we start.
+Drawing on methodology successfully implemented by the SCAPE/SCHARP project in Scotland (Dawson 2017), Virginia and other coastal states could quickly deploy volunteer data collectors to aid in site monitoring and discovery. But the correlation between archaeology in Scotland and archaeology in the United States is not 1:1. Fewer legal protections and, arguably, less of a communal stewardship ethic introduce perceived added risk for intentional looting and destruction. Fortunately, in this state we've got the remarkable [Archeological Society of Virginia](https://www.virginiaarcheology.org/), a large avocational archaeology organization including members with decades of training and experience, as well as a high degree of collaboration with the professional archaeological community. *Here* is where we start.
 
 ![Screenshot of a demo data collection form, including maping and user-reporting of observations](./demo_stewardship.png)  
-*A demo for volunteer "Site Steward" data collection, created using KoboToolbox. **Try it at https://ee.kobotoolbox.org/x/#Ycsh***
+*A demo for volunteer "Site Steward" data collection, created using KoboToolbox.*
+
+[Try the data collection app (on mobile or from your computer)](https://ee.kobotoolbox.org/x/#Ycsh)
 
 
 #### Sharing information to build coalitions- WHO CARES?
-Beyond ASV members, 
 
-### Ways to present maps to the public
+Beyond the dedicated ASV members, we must find new ways to bring Virginia's archaeological heritage into the broader public consciousness. In order for a resource to warrant community protection and preservation, it has to be valued. How can we expect those outside of our own profession to understand the intrinsic value of archaeology when most people have no idea they are surrounded by thousands of years of material culture? This question applies both to citizens and decision makers. If we want our leaders and communities to come to bat for these sites, we've got some work to do. 
 
-MSUDAI example (could move to COVA)
+In the coming years, it will be more critical then ever to prioritize outreach, take the time and effort to create maps safe for distribution, and make our archaeological data engaging and accessible (Smith 2016b).
 
 
-### \[1\] Wrap up- 
-building in flexibility to view our GIS data in flexible ways can have implications beyond climate change. Also relevant to people outside of DHR. What can you do? Make data interoperable, link it, choose non-proprietary formats for distribution
+### In Conclusion
 
-  
+Building in flexibility to view our GIS data in many ways can have implications far beyond climate change. While this paper comes from the perspective of a SHPO archaeologist, I argue that the principles and approaches are also relevant to people outside of DHR. We can all build in consideration for public dissemination at the outset with simple strategies like formatting reports to easily remove sensitive data. We can make data interoperable by planning for its reuse and choosing stable, non-proprietary file formats. These strategies might seem tangential to addressing response to climate change impacts, but they're core to getting the right level of information out into the world. 
+Our geospatial data is rich and valuable. By finding new ways to view it, we can expand our reach beyond a small subset of trained professionals and exponentially expand our reach and influence, protecting sites. 
 
 
 
@@ -124,7 +128,7 @@ Anderson, David G., Thaddeus G. Bissett, Stephen J. Yerka, Joshua J. Wells, Eric
 
 Berman, Marcia. 2010. “How Long Is Virginia’s Shoreline?” The Length of the Commonwealth’s Shoreline. April 2, 2010. [http://www.vims.edu/bayinfo/faqs/shoreline_miles.php](http://www.vims.edu/bayinfo/faqs/shoreline_miles.php).
 
-Dawson, Tom. 2017. “The Steps to Prioritizing and Undertaking Action at Sites Threatened by Climate Change: Incorporating a Citizen Science Approach into Heritage Management in Scotland.” _With A World of Heritage So Rich: Lessons from Across the Globe for U.S. Historic Preservation in Its Second 50 Years. US/ICOMOS.
+Dawson, Tom. 2017. “The Steps to Prioritizing and Undertaking Action at Sites Threatened by Climate Change: Incorporating a Citizen Science Approach into Heritage Management in Scotland.” _With A World of Heritage So Rich: Lessons from Across the Globe for U.S. Historic Preservation in Its Second 50 Years. US/ICOMOS. [https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/10074/DawsonWorld_Of_Heritage_So_Rich_.pdf](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/10074/DawsonWorld_Of_Heritage_So_Rich_.pdf?sequence=1)
 
 FEMA. 2011. “National Disaster Recovery Framework.” [https://www.fema.gov/pdf/recoveryframework/ndrf.pdf](https://www.fema.gov/pdf/recoveryframework/ndrf.pdf).
 
@@ -132,6 +136,8 @@ Rose, Craig, Mary Farrell, Brian Bates, Walter Witschey, Erin West. 2017
 Archaeological Shoreline Survey, Portions of Lancaster, Mathews, Middlesex, and Northumberland Counties, Virginia. Longwood Institute of Archaeology.
 
 Smith, Jolene. 2016. "Approaches to Openness." Society for Historical Archaeology, Baltimore, MD. [https://jolenesmith.net/approaches-to-openness/html.](https://jolenesmith.net/approaches-to-openness/html)
+
+Smith, Jolene. 2016. “Archaeology for Everyone: A Public Digital Repository. White Paper for the Institute on Digital Archaeology Method and Practice.” [http://vaarchaeology.matrix.msu.edu/about/](http://vaarchaeology.matrix.msu.edu/about/).
 
 Smith, Jolene, David G. Anderson, Eric Kansa, Joshua Wells, and Stephen Yerka. 2017. “Using the Digital Index of North American Archaeology for Rapid Disaster Response and Reporting.” Keeping History Above Water, Annapolis, MD. [https://github.com/aejolene/disastermap](https://github.com/aejolene/disastermap).
 
