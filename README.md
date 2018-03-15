@@ -25,7 +25,7 @@ In addition to rising seas, changing global temperatures alter sea currents and 
 In Virginia, we maintain records on around 44,000 archaeological sites, with more being added every day. In response to new priorities from the administration of Governor Terry McAullife in 2014, the Department of Historic Resources established a "Climate Change Impact Area" in order to monitor resources and target survey. To derive this area, DHR staff combined Category 4 storm surge area data (Virginia Department of Emergency Management 2013) and the projected area to be inundated with a 5' sea level rise (NOAA 2013). 
 
 ![Climate Change Impact Area, covering the Chesapeake Bay and the Atlantic Coast, and showing architectural and archaeological resources.](./climate_change_impact_area_2014.jpg)  
-*Virginia's DHR's Climate Change Impact Area (2014).*
+*Virginia DHR's Climate Change Impact Area (2014).*
 
 The goal of the area was not to predict which sites and above-ground historic properties would be flooded, but to instead target increased attention and documentation. The zone contains more than ten percent of all recorded archaeological sites and archaeological resources in the Commonwealth. Only a small percent of this area has been systematically surveyed for archaeological sites prior to 2013. The richness of our coastal heritage (not to mention the interconnected ecosystems) cannot be overstated.
 
