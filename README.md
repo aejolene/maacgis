@@ -21,7 +21,7 @@ According to the Fourth National Climate Assessment published by the U.S. Global
 ![**“Changes in Sea Level in Sea Surface Height”** from USGCRP 2017](./SLR_report.png)
 *[“Changes in Sea Level in Sea Surface Height”](https://science2017.globalchange.gov/chapter/12#fig-12-3) from USGCRP 2017*
 
-In addition to rising seas, changing global temperatures alter sea currents and weather patterns, causing an increase in the occurrence of severe storms and changes to the rates of shoreline erosion. The shoreline of the Chesapeake Bay in Virginia alone stretches over 7,000 miles (Berman 2010). It is no surprise to any archaeologist that a large proportion of human habitation sites stretching back millennia are in close proximity to the coast and shorelines and are imminently threatened).
+In addition to rising seas, changing global temperatures alter sea currents and weather patterns, causing an increase in the occurrence of severe storms and changes to the rates of shoreline erosion. The shoreline of the Chesapeake Bay in Virginia alone stretches over 7,000 miles (Berman 2010). It is no surprise to any archaeologist that a large proportion of human habitation sites stretching back millennia are in close proximity to the coast and shorelines and are imminently threatened.
 
 
 ### How we plan
