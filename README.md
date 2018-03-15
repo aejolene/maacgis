@@ -6,10 +6,6 @@
 In Geospatial Studies in Middle Atlantic Archaeology
 Session Organizer: Yvonne French (Northern Virginia Chapter, Archeological Society of Virginia)
 
-**Abstract:**  
-In the years ahead, archaeologists and emergency managers will need increasing capacity to respond to severe weather events driven by climate change. While Virginia’s archaeological geospatial data is generally protected, alternate ways of presenting and sharing information are needed, whether to respond to disasters, to crowdsource observations, or to develop a stewardship ethic among members of the general public. Using data served to the public through the Digital Index of North American Archaeology with obscured location information, this presentation will demonstrate new ways to present and interact with state archaeology records that bring them beyond the world of cultural resource management and regulatory compliance.
-
-
 ----------
 
 
